@@ -20,8 +20,8 @@
 				{alert('You shall not pass');
 			}
 		}
-		luckyNumber();
 	//qOne becomes what the user entered after they press enter, the second part of this comment / when you're trying to loop qOne. That variable is what I check in loop = index
+		function jimmyPage(){
 		let qTwo= prompt ('What year was Jimmy Page born?')
 		if(qTwo === '1944')
 			{alert('Wicked.');
@@ -42,8 +42,10 @@
    			 }
     	if(qFour !== 'white')
     		{alert('Close, but not quite');}
-
-
+			}
+		
+			luckyNumber();
+			jimmyPage();
     	alert('Friends get to know each other! ' + userName + ', you have a good taste in music, I also like ' + favBand);
 		let food = ['crab', 'turkey', 'banana']
 	// 	for (let index=0; index < food.length; index++) {
