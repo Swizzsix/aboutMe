@@ -1,0 +1,82 @@
+h1{
+	color: #00FF00;
+	font-size: 100px;
+	text-align: center;
+}
+.flag{
+	position:absolute;
+	top: 500px;
+	left: 50%;
+	margin-top: 50px;
+}
+.flagImage{
+	width:800px;
+	height: 533px;
+}
+.korea{
+	position:absolute;
+	top: 1000px;
+	left: 50%;
+	margin-top: 200px;
+}
+h2{
+	font-size: 33px;
+	padding-bottom:50px;
+	color:#D2691E;
+	padding-left:80px;
+}
+h3{
+	font-size:25px;
+	text-align: center;
+	color:#D2691E;
+}
+p{
+	color:#D2691E;
+	font-size: 50px;
+	padding-left: 25%;
+}
+body{
+background-color: black;
+color:white;
+}
+li{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  padding-bottom:50px;
+  font-size: 24px;
+  color:#D2691E;
+}
+a:link {
+  color: #00FF00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #00FF00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #00FF00;
+  background-color: transparent;
+  text-decoration: none;
+}
+a{
+border: white solid;
+border-width: 1px;
+font-size:50px;
+}
+.button1{
+position: absolute;
+padding-left: 1250px;
+top:1800px;
+}
